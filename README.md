@@ -1,5 +1,5 @@
 <br>
-<h2 align="center">𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙼𝚊𝚛𝚒𝚊 𝙻𝚞𝚒𝚣𝚊!🦋</h2>
+<h2 align="center">𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙼𝚊𝚛𝚒𝚊 𝙻𝚞𝚒𝚣𝚊!  <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="40"></h2>
 <br>
 <br>
 <br>
@@ -9,10 +9,9 @@
   I'm currently deepening my knowledge in technologies such as <strong>TypeScript</strong>, <strong>Angular</strong>, <strong>Dart</strong>, and <strong>Flutter</strong>
 </p>
 
+<br>
+<br>
 
-<br>
-<br>
-  
 <p align="center">
   <a>
     <img 
@@ -40,15 +39,14 @@
   <img src="https://img.shields.io/badge/-Python-%23282C34?style=for-the-badge&logo=Python" alt="Python"/>
   <img src="https://img.shields.io/badge/-Dart-%23282C34?style=for-the-badge&logo=dart" alt="Dart"/>
   <img src="https://img.shields.io/badge/-Flutter-%23282C34?style=for-the-badge&logo=flutter" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/-Git-%23282C34?style=for-the-badge&logo=git" alt="Git"/>
-
+  
   <br>
 </p>
 
 <br>
 <br>
 
-<h3 align="center">𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h3>
+<h3 align="center">𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜   <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="30"></h3>
 <p align="center">Key projects that contributed to my development</p>
 <br>
 
