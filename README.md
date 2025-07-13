@@ -52,8 +52,8 @@
 <p align="center">
   <p align="center">
     <a href="https://github.com/mluizaramos/Website---BookStore"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mluizaramos&repo=Website-BookStore&theme=react&bg_color=23282C34&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mluizaramos&repo=API-Planetas&theme=react&bg_color=23282C34&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mluizaramos&repo=jogoDaVelha&theme=react&bg_color=23282C34&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/mluizaramos/API-Planetas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mluizaramos&repo=API-Planetas&theme=react&bg_color=23282C34&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mluizaramos/jogoDaVelha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mluizaramos&repo=jogoDaVelha&theme=react&bg_color=23282C34&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <br>
@@ -62,6 +62,6 @@
 
 <br>
 <p align="center">
-  <a href = "mailto:mluiza.aramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-luiza-almeida-0691a4285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:mluiza.aramos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /> </a>
+  <a href="https://br.linkedin.com/in/maria-luiza-ramos-0691a4285?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
