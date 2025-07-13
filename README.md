@@ -1,5 +1,4 @@
-<br>
-<h2 align="center">𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙼𝚊𝚛𝚒𝚊 𝙻𝚞𝚒𝚣𝚊!  <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="40"></h2>
+<h2 align="center">𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙼𝚊𝚛𝚒𝚊 𝙻𝚞𝚒𝚣𝚊!  <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="30"></h2>
 <br>
 <br>
 <br>
@@ -46,7 +45,7 @@
 <br>
 <br>
 
-<h3 align="center">𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜   <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="30"></h3>
+<h3 align="center">𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h3>
 <p align="center">Key projects that contributed to my development</p>
 <br>
 
