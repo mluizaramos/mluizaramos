@@ -15,14 +15,14 @@
   <a>
     <img 
       alt="DenverCoder1's Github Stats" 
-      src="https://github-readme-stats-phi-eight-39.vercel.app/api/?username=mluizaramos&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" 
+      src="https://github-readme-stats-phi-eight-39.vercel.app/api/?username=mluizaramos&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=23282C34&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" 
       height="192px" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a style="text-decoration: none;">
     <img 
       alt="Top Languages" 
-      src="https://github-readme-stats-phi-eight-39.vercel.app/api/top-langs/?username=mluizaramos&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" 
+      src="https://github-readme-stats-phi-eight-39.vercel.app/api/top-langs/?username=mluizaramos&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=F85D7F&bg_color=23282C34&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" 
       height="290px" />
   </a>
 </p>
