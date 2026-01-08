@@ -5,7 +5,7 @@
 
 <p align="center">
   I'm a Software Engineering student working as a <strong>Full-Stack Developer</strong>. <br />
-  I'm currently deepening my knowledge in technologies such as <strong>React.Js</strong>, <strong>Angular</strong>, <strong>Flutter</strong>, and <strong>Python</strong>
+  I'm currently deepening my knowledge in technologies such as <strong>React.Js</strong>, <strong>Angular</strong>, <strong>Java</strong>, and <strong>Python</strong>
 </p>
 
 <br>
