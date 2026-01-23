@@ -36,9 +36,8 @@
   <img src="https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badge&logo=react" alt="React.js"/>
   <img src="https://img.shields.io/badge/-Angular.js-%23282C34?style=for-the-badge&logo=angular" alt="Angular.js"/>
   <img src="https://img.shields.io/badge/-Python-%23282C34?style=for-the-badge&logo=Python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Dart-%23282C34?style=for-the-badge&logo=dart" alt="Dart"/>
-  <img src="https://img.shields.io/badge/-Flutter-%23282C34?style=for-the-badge&logo=flutter" alt="Flutter"/>
-  
+  <img src="https://img.shields.io/badge/Java-%23282C34?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
   <br>
 </p>
 
