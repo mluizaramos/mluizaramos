@@ -1,4 +1,4 @@
-<h3 >Hey, I'm Maria! Welcome to my Github <img src="https://github.com/user-attachments/assets/5ab58521-03f1-4a92-b090-051749e48c1f" alt="yellow-butterfly-pixel-art" width="30"></h3>
+<h3 >Hey, I'm Maria! Welcome to my Github <img src="https://github.com/user-attachments/assets/3a93d05b-ef4d-4497-a2ca-6e5d9e021578" alt="yellow-butterfly-pixel-art" width="30"></h3>
 
 Feel free to explore my projects, fork the repositories and contribute if you'd like.
 
