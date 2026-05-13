@@ -3,13 +3,11 @@
 Feel free to explore my projects, fork the repositories and contribute if you'd like.
 
 Around here you'll find some of the things I work with:
-- Web applications with ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat&logo=javascript)
-
-- Automation scripts & RPA solutions with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python)
-
 - Frontend experiences using ![React.js](https://img.shields.io/badge/React.js-282C34?style=flat&logo=react) ![Angular.js](https://img.shields.io/badge/Angular.js-282C34?style=flat&logo=angular)
-
+ 
 - Backend development with ![Java](https://img.shields.io/badge/Java-282C34?style=flat&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/Django-282C34?style=flat&logo=django&logoColor=white)
+  
+- Web applications with ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat&logo=javascript)
 
 - Cross-platform mobile applications with ![Flutter](https://img.shields.io/badge/Flutter-282C34?style=flat&logo=flutter&logoColor=white)
 
