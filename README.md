@@ -13,7 +13,7 @@ Around here you'll find some of the things I work with:
 
 - Cross-platform mobile applications with ![Flutter](https://img.shields.io/badge/Flutter-282C34?style=flat&logo=flutter&logoColor=white)
 
-Recently I've been focusing on automation solutions with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python), building RPA workflows, process automation tools and improve operational efficiency.
+Recently I've been focusing on automation solutions with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python) building RPA workflows, process automation tools and improve operational efficiency.
 
 If you think we could build something cool together, feel free to contact me through:
 
