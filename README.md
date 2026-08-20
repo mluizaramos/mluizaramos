@@ -43,7 +43,8 @@
 
 - **Currently studying & exploring** with 
 ![PyTorch](https://img.shields.io/badge/PyTorch-282C34?style=flat&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-282C34?style=flat&logo=amazonaws&logoColor=white) — still learning, experimenting and occasionally breaking things along the way.
+![AWS](https://img.shields.io/badge/AWS-282C34?style=flat&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-282C34?style=flat&logo=databricks&logoColor=white) — still learning, experimenting and occasionally breaking things along the way.
 
 <br>
 
