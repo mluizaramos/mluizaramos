@@ -1,19 +1,68 @@
-<h3 >Hey, I'm Maria! Welcome to my Github <img src="https://github.com/user-attachments/assets/3a93d05b-ef4d-4497-a2ca-6e5d9e021578" alt="yellow-butterfly-pixel-art" width="30"></h3>
-
-Feel free to explore my projects, fork the repositories and contribute if you'd like.
-
-Around here you'll find some of the things I work with:
-- Frontend experiences using ![React.js](https://img.shields.io/badge/React.js-282C34?style=flat&logo=react) ![Angular.js](https://img.shields.io/badge/Angular.js-282C34?style=flat&logo=angular)
+<div align="center">
  
-- Backend development with ![Java](https://img.shields.io/badge/Java-282C34?style=flat&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/Django-282C34?style=flat&logo=django&logoColor=white)
-  
-- Web applications with ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat&logo=javascript)
+<h3>
+  Hey, I'm Maria! Welcome to my Github
+  <img src="https://github.com/user-attachments/assets/3a93d05b-ef4d-4497-a2ca-6e5d9e021578" alt="yellow butterfly pixel art" width="30">
+</h3>
 
-- Cross-platform mobile applications with ![Flutter](https://img.shields.io/badge/Flutter-282C34?style=flat&logo=flutter&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=data+%2B+automation+%2B+development+%2B+curiosity;building+things+and+figuring+out+how+they+work" alt="Typing SVG" />
+</a>
+</div>
 
-Recently I've been focusing on automation solutions with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python) building RPA workflows, process automation tools and improve operational efficiency.
+<br>
 
-If you think we could build something cool together, feel free to contact me through:
+> I'm a **Software Engineering & Data Science student** interested in building applications, automating repetitive processes, and turning raw data into useful insights.
 
-<a href="https://br.linkedin.com/in/maria-luiza-ramos-0691a4285?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
 
+💻 Here's what I've been working with lately:
+
+- **Automation & RPA** with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python\&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-282C34?style=flat\&logo=sap\&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-282C34?style=flat\&logo=python\&logoColor=white) — building bots and automating repetitive workflows.
+
+- **Data** with
+![SQL](https://img.shields.io/badge/SQL-282C34?style=flat\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-282C34?style=flat\&logo=pandas\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-282C34?style=flat\&logo=powerbi\&logoColor=yellow)
+![Excel](https://img.shields.io/badge/Excel-282C34?style=flat\&logo=microsoftexcel\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=flat\&logo=postgresql\&logoColor=white)  — querying, modeling, and visualizing data so it actually tells a story
+
+- **Development** with ![FastAPI](https://img.shields.io/badge/FastAPI-282C34?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-282C34?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-282C34?style=flat\&logo=typescript\&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-282C34?style=flat&logo=angular) ![React.js](https://img.shields.io/badge/React.js-282C34?style=flat&logo=react\&logoColor=white) — building APIs, applications and interfaces.
+
+- **Tools & workflow** with 
+![Docker](https://img.shields.io/badge/Docker-282C34?style=flat&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-282C34?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-282C34?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-282C34?style=flat&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-282C34?style=flat&logo=jira&logoColor=white) — building, versioning and organizing projects.
+
+- **Currently studying & exploring** with 
+![PyTorch](https://img.shields.io/badge/PyTorch-282C34?style=flat&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-282C34?style=flat&logo=amazonaws&logoColor=white) — still learning, experimenting and occasionally breaking things along the way.
+
+<br>
+
+🌱 **Currently exploring:** Recently, I've been exploring projects and initiatives around data, technology, ecology and sustainability, following things like GBIF, MapBiomas and iNaturalist.
+
+<br>
+
+🌍 **Beyond the code:** When I'm not studying, debugging or convincing a script to work, I'm probably expanding my book collection or planning my next travel itinerary.
+
+<br>
+
+<div align="center">
+
+**Feel free to explore my projects, fork a repository or just say hi!**
+
+<br>
+
+<a href="https://br.linkedin.com/in/maria-luiza-ramos-0691a4285?trk=people-guest_people_search-card" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+</div>
