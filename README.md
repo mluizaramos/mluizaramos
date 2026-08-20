@@ -18,15 +18,16 @@
 
 💻 Here's what I've been working with lately:
 
-- **Automation & RPA** with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python\&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-282C34?style=flat\&logo=sap\&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-282C34?style=flat\&logo=python\&logoColor=white) — building bots and automating repetitive workflows.
-
 - **Data** with
 ![SQL](https://img.shields.io/badge/SQL-282C34?style=flat\&logo=postgresql\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-282C34?style=flat\&logo=pandas\&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-282C34?style=flat\&logo=pandas\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-282C34?style=flat\&logo=powerbi\&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/Excel-282C34?style=flat\&logo=microsoftexcel\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=flat\&logo=postgresql\&logoColor=white)  — querying, modeling, and visualizing data so it actually tells a story
+
+- **Automation & RPA** with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python\&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-282C34?style=flat\&logo=sap\&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-282C34?style=flat\&logo=python\&logoColor=white) — building bots and automating repetitive workflows.
 
 - **Development** with ![FastAPI](https://img.shields.io/badge/FastAPI-282C34?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-282C34?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=flat\&logo=javascript\&logoColor=white)
@@ -38,13 +39,15 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-282C34?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-282C34?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-282C34?style=flat&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-282C34?style=flat&logo=azuredevops&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-282C34?style=flat&logo=jira&logoColor=white) — building, versioning and organizing projects.
+![Jira](https://img.shields.io/badge/Jira-282C34?style=flat&logo=jira&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-282C34?style=flat&logo=azure&logoColor=white) — building, versioning and organizing projects.
 
-- **Currently studying & exploring** with 
+- **Studying & exploring** with
+![R](https://img.shields.io/badge/R-282C34?style=flat&logo=r&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-282C34?style=flat&logo=pyspark&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-282C34?style=flat&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-282C34?style=flat&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-282C34?style=flat&logo=databricks&logoColor=white) — still learning, experimenting and occasionally breaking things along the way.
+![Databricks](https://img.shields.io/badge/Databricks-282C34?style=flat&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-282C34?style=flat&logo=amazonaws&logoColor=white) — still learning and experimenting.
 
 <br>
 
