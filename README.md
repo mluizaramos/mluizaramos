@@ -24,7 +24,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-282C34?style=flat\&logo=pandas\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-282C34?style=flat\&logo=powerbi\&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/Excel-282C34?style=flat\&logo=microsoftexcel\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=flat\&logo=postgresql\&logoColor=white)  — querying, modeling, and visualizing data so it actually tells a story
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?style=flat\&logo=postgresql\&logoColor=white)  — querying, modeling, and visualizing data so it actually tells a story.
 
 - **Automation & RPA** with ![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python\&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-282C34?style=flat\&logo=sap\&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-282C34?style=flat\&logo=python\&logoColor=white) — building bots and automating repetitive workflows.
