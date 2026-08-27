@@ -51,7 +51,7 @@
 
 <br>
 
-🌱 **Currently exploring:** Recently, I've been exploring projects and initiatives around data, technology, ecology and sustainability, following things like GBIF, MapBiomas and iNaturalist.
+🌱 **Currently exploring:** Projects and initiatives where data and technology meet ecology and sustainability, following platforms like GBIF, MapBiomas and iNaturalist.
 
 <br>
 
